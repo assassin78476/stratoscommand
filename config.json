@@ -1,8 +1,8 @@
 {
-  "port": "1612",
-  "name": "Stratos Command",
-  "description": "Stratos Command is a powerful All in one Bot with unique features.",
-  "invite": "https://discord.com/oauth2/authorize?client_id=1381300215180431481&permissions=8&integration_type=0&scope=bot+applications.commands",
+  "port": "8080",
+  "name": "ba-bot",
+  "description": "Ba bot is a powerful All in one Bot with unique features.",
+  "invite": "https://discord.com/oauth2/authorize?client_id=1401568899568242739&permissions=8&integration_type=0&scope=bot+applications.commands",
   "support": "https://discord.gg/X8bV7SGqD7",
   "pfp": "https://media.discordapp.net/attachments/1397077990579372126/1401913715821117503/ChatGPT_Image_4_aout_2025_11_35_59.png?ex=68920164&is=6890afe4&hm=4aa82636875b670ffc5fa051aa9779d2cc69328d24613ad25313847fe5779bd1&=&format=webp&quality=lossless&width=795&height=795",
   "feature1": "Music, It can play different kind of music from different platforms like spotify, apple, etc.",
